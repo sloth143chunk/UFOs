@@ -12,15 +12,15 @@ The website will filter through different search criteria:
 
 -	The website has multiple search filters for your users.
 
-![UFO Website Filters](/Images/UFO_Website_Filters.PNG)
+![UFO Website Filters](/images/UFO_Website_Filters.PNG)
 
 -	Entering a date, city, state, country, or shape will filter the table.
 
-![Single Search Filter](/Images/el_cajon_filter.PNG)
+![Single Search Filter](/images/el_cajon_filter.PNG)
 
 -	Users can add multiple filters to search through sightings.
 
-![Multiple Search Filters](/Images/multiple_filters.PNG)
+![Multiple Search Filters](/images/multiple_filters.PNG)
 
 ## Challenge Summary
 
