@@ -2,9 +2,9 @@
 
 ## Challenge Overview
 
-The purpose of this analysis was to provide Dana with:
+The purpose of this analysis was to provide Dana's webpage with:
 -	A more in-depth analysis of UFO sightings
--	Allowing users to filter for date, city, state, country, and shape
+-	Users the ability to filter for date, city, state, country, and shape
 
 ## Challenge Results
 
@@ -28,7 +28,7 @@ The website will filter through different search criteria:
 
 -	The table could be added to a second page and you could add more images or a video to the first page.
 
--	I also believe adding a third page where users can enter in new sightings that would be added to table would help the webpage.
+-	I believe adding a third page where users can enter in new sightings to be added to table would help the webpage.
 
 ## Resources
 - Data Source: data.js
