@@ -1,12 +1,12 @@
 # UFO Analysis
 
-## Challenge Overview
+## Project Overview
 
 The purpose of this analysis was to provide Dana's webpage with:
 -	A more in-depth analysis of UFO sightings
 -	Users the ability to filter for date, city, state, country, and shape
 
-## Challenge Results
+## Results
 
 The website will filter through different search criteria:
 
@@ -22,7 +22,7 @@ The website will filter through different search criteria:
 
 ![Multiple Search Filters](/images/multiple_filters.PNG)
 
-## Challenge Summary
+## Summary
 
 -	One drawback of this webpage could be that everything is on one page.
 
